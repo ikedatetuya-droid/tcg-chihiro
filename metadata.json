@@ -1,0 +1,6 @@
+{
+  "name": "TCG CHIHIRO",
+  "description": "TCG CHIHIRO - Osaka-based premier Japanese trading card boutique. Authentic sealed booster boxes, PSA 10 slabs, and rare collector singles shipped worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
